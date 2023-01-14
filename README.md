@@ -1,7 +1,7 @@
-# Pace Converter
+# Agence Immo 
 
 ## Description
-This program allows you to converts pace into speed
+un site dynamique pour agence Immobilière 
 
 ## How to install
 
@@ -9,7 +9,7 @@ This program allows you to converts pace into speed
 
 ```bash
 # clone the repo from Github through SSH
-git clone git@github.com:nveki/speed_converter.git
+git clone git@github.com:nveki/Agence-Immo.git
 ```
 
 ### Config .env.local
@@ -18,7 +18,7 @@ git clone git@github.com:nveki/speed_converter.git
 ```
 ### Install project's dependencies
 ```shell
-# cd into the project directory ( ~cd var/.../.../speed_converter
+# cd into the project directory ( ~cd var/.../.../Agence-Immo
 ~composer update
 ```
 
