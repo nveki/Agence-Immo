@@ -9,7 +9,7 @@ This program allows you to converts pace into speed
 
 ```bash
 # clone the repo from Github through SSH
-git clone git@github.com:O-clock-Einstein/17-run-up-back.git
+git clone git@github.com:nveki/speed_converter.git
 ```
 
 ### Config .env.local
@@ -18,7 +18,7 @@ git clone git@github.com:O-clock-Einstein/17-run-up-back.git
 ```
 ### Install project's dependencies
 ```shell
-# cd into the project directory ( ~cd var/.../.../17-run-up-back)
+# cd into the project directory ( ~cd var/.../.../speed_converter
 ~composer update
 ```
 
