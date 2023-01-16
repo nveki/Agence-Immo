@@ -21,7 +21,6 @@ git clone git@github.com:nveki/Agence-Immo.git
 # cd into the project directory ( ~cd var/.../.../Agence-Immo
 ~composer update
 ```
-
 ### Config .env.local
 ```bash
 - Copy ".env" and rename the copy by ".env.local"
