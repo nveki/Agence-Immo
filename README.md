@@ -21,6 +21,7 @@ git clone git@github.com:nveki/Agence-Immo.git
 # cd into the project directory ( ~cd var/.../.../Agence-Immo
 ~composer update
 ```
+
 ### Config .env.local
 ```bash
 - Copy ".env" and rename the copy by ".env.local"
@@ -47,3 +48,18 @@ followed by
 ```shell
 ~ bin/console doctrine:migrations:migrate
 ``` 
+
+### Install TailwindCSS PostCss & Autoprefixer
+```shell
+# cd into the project directory ( ~cd var/.../.../Agence-Immo
+~npm install -D tailwindcss postcss autoprefixer
+```
+### Build 
+```shell
+# cd into the project directory ( ~cd var/.../.../Agence-Immo
+~npm run dev 
+or 
+~npm run watch (if you don't want to build everytime) 
+
+```
+
